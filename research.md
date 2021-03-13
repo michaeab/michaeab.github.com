@@ -9,7 +9,7 @@ permalink: /research/
   <img class="brain1" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="twoTop">
-  <img class="floc" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
+  <img class="disp" src="/assets/img/disp.png" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="threeTop">
   <u>Modeling of Cortical Color Responses</u><br>
