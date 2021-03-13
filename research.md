@@ -44,11 +44,15 @@ permalink: /research/
 
 <div class="wrapper">
   <div class="one">
-   <img class="devo" src="/assets/img/devo.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img class="devo" src="/assets/img/devo.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
+  </div>
+  <div class="two">
   </div>
   <div class="three">
     <u>Development of Perception</u><br>
     A longitudinal research study examining human high-level visual cortex in children (5-12 years old) and adults. From this study, we found growth of tissue within portions of ventral temporal cortex, challenging the idea that cortex is either quiescent or pruned after early childhood. This tissue growth within face-selective cortex, is correlated with increases in the functional selectivity of face-selective regions and linked to improvements in recognition memory ability well into adulthood. To do this study, we combined quantitative magnetic resonance imaging techniques with functional MRI and behavioral measurements in single-subject analyses. We have also linked these measures with ex vivo quantifications of cytoarchitecture.
+  </div>
+  <div class="four">
   </div>
 </div>
 
