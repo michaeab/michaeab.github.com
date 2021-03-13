@@ -37,3 +37,23 @@ permalink: /research/
   </div>
 </div> 
 
+<style type="text/css">
+  .row {
+    display: flex;
+  }
+
+  .column {
+    flex: 50%;    
+  }
+
+  .grid-container {
+  display: grid;
+  grid-template-columns: 30px 200px auto 100px;
+  }
+
+  img.ohbm-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
