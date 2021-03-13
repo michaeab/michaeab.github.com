@@ -45,24 +45,24 @@ permalink: /research/
   grid-row: 1;
 }
 .two {
-  grid-column: 2 / 4;
-  grid-row: 1 / 3;
+  grid-column: 2 / 3;
+  grid-row: 1 ;
 }
 .three {
-  grid-column: 1;
-  grid-row: 2 / 5;
+  grid-column: 3 / 3;
+  grid-row: 1;
 }
 .four {
-  grid-column: 3;
-  grid-row: 3;
+  grid-column: 1 / 3;
+  grid-row: 2;
 }
 .five {
-  grid-column: 2;
-  grid-row: 4;
+  grid-column: 2 / 3;
+  grid-row: 2;
 }
 .six {
-  grid-column: 3;
-  grid-row: 4;
+  grid-column: 3 / 3;
+  grid-row: 2;
 }
 
   img.ohbm-image {
