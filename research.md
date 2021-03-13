@@ -21,22 +21,6 @@ permalink: /research/
   </div>
 </div>
 
-<div class="wrapperTop">
-  <div class="oneTop">
-    <img class="brain1" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
-  </div>
-  <div class="twoTop">
-    <img class="disp" src="/assets/img/disp.jpg" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
-  </div>
-  <div class="threeTop">
-    <u>Modeling of Cortical Color Responses</u><br>
-    Examining the neural basis of cortical color responses through the of fMRI. The goal of this project is to present subjects with targeted light spectra stimuli in order to model the sensitivity of populations of neurons to various color directions. Using parameterized fits to these voxel sensitivities, we will examine how these parameter vary based on factors such as eccentricity and visual area.
-  </div>
-  <div class="fourTop">
-    <u>Modeling of Retinal Ganglion Cell Displacement</u><br>
-    Modeling the lateral displacement of retinal ganglion cells in the human retina. Correction for this displacement is needed to relate measurements of  RGCs to measurements of cones, perception, or cortex. We have developed a spatial model that solves for RGC displacement at any arbitrary retinal position.  The goal of this model is to  use individual subject data to link measurements of cone and RGC density to visual function and cortical organization.
-  </div>
-</div>
 ***
 
 # Past Projects
