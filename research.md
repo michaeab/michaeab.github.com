@@ -4,15 +4,20 @@ title: Research
 permalink: /research/
 ---
 # Current Projects
-<div class="row">
-  <div class="column" markdown="1">
-  I am a graduate student in the Department of Psychology at University of Pennsylvania where I am co-advised by David Brainard and Geoffrey Aguirre. My current research uses functional magnetic resonance imaging, computational, and behavioral techniques to study the neural basis of cortical color responses. <br><br> Previously I was a lab manager for Kalanit Grill-Spector at Stanford University. During this time, I had two main projects where I examined the development of high-level vision and the microarchitecture of functional regions in human cortex . Prior to being a lab manager, I was a research assistant for Emily Grossman at UC Irvine where I worked on understanding the neural representation of biological motion.
+<div class="wrapperTop">
+  <div class="oneTop">
+  <img class="ohbm-image" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
-  
-  <div class="column">
-  <img class="ohbm-image" src="/assets/img/ohbm.jpg" alt="OHBM 2015" style="width:350px;height:350px;">
+  <div class="twoTop">
+  <img class="ohbm-image" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
-</div> 
+  <div class="threeTop">
+  <img class="ohbm-image" src="/assets/img/devo.png" alt="devo" style='height: 100%; width: 100%; object-fit: contain'/>
+  </div>
+  <div class="fourTop">
+  <u>Function and Cytoarchitecture</u> <br> 
+  Created cortical mesh reconstructions of post-mortem human brains in FreeSurfer based on hand segmentations. The surfaces were used to create maximum probability maps (MPM) of cytoarchitechtonic regions of interest (cROI) in the fusiform gyrus. I created a pipeline using the cortex based alignment tools of FreeSurfer to register these MPM cROIs to individual living subjects. For the first time, this allowed the quantification of proportion overlap of category selective regions of VTC and its cellular composition.
+  </div>
 
 ***
 # Past Projects
@@ -80,7 +85,33 @@ permalink: /research/
   grid-row: 2;
 }
 
-  img.brain1 {
+.wrapperTop {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+  }
+.oneTop {
+  grid-column: 1 / 2;
+  grid-row: 1;
+  padding: 10px;
+  }
+.twoTop {
+  grid-column: 2 / 2;
+  grid-row: 1 ;
+  padding: 10px;
+}
+.threeTop {
+  grid-column: 1 / 2;
+  grid-row: 2;
+  padding: 10px;
+}
+.fourTop {
+  grid-column: 2 / 2;
+  grid-row: 2;
+  padding: 10px;
+}
+img.brain1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
