@@ -18,13 +18,13 @@ permalink: /research/
 # Past Projects
  <div class="wrapper">
   <div class="one">
-  <img class="ohbm-image" src="/assets/img/brain1.jpg" alt="brain1">
+  <img class="ohbm-image" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="two">
-  <img class="ohbm-image" src="/assets/img/floc.png" alt="floc" >
+  <img class="ohbm-image" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="three">
-  <img class="ohbm-image" src="/assets/img/devo.png" alt="devo" >
+  <img class="ohbm-image" src="/assets/img/devo.png" alt="devo" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="four">
   <u>Function and Cytoarchitecture</u> <br> 
@@ -84,22 +84,16 @@ permalink: /research/
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 100%;
-    max-height: 100%;
 }
 img.floc {
     display: block;
     margin-left: auto;
     margin-right: auto;
-     max-width: 100%;
-    max-height: 100%;
 }
 img.devo {
     display: block;
     margin-left: auto;
     margin-right: auto;
-     max-width: 100%;
-    max-height: 100%;
 }
 
 </style>
