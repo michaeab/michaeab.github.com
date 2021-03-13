@@ -9,21 +9,22 @@ permalink: /research/
   <img class="ohbm-image" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="twoTop">
-  <img class="ohbm-image" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
+  <img class="ohbm-image" src="/assets/img/disp.jpg" alt="dips" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="threeTop">
-  <img class="ohbm-image" src="/assets/img/devo.png" alt="devo" style='height: 100%; width: 100%; object-fit: contain'/>
+  <u>Modeling of Cortical Color Responses</u><br>
+  Examining the neural basis of cortical color responses through the of fMRI. The goal of this project is to present subjects with targeted light spectra stimuli in order to model the sensitivity of populations of neurons to various color directions. Using parameterized fits to these voxel sensitivities, we will examine how these parameter vary based on factors such as eccentricity and visual area. 
   </div>
   <div class="fourTop">
-  <u>Function and Cytoarchitecture</u> <br> 
-  Created cortical mesh reconstructions of post-mortem human brains in FreeSurfer based on hand segmentations. The surfaces were used to create maximum probability maps (MPM) of cytoarchitechtonic regions of interest (cROI) in the fusiform gyrus. I created a pipeline using the cortex based alignment tools of FreeSurfer to register these MPM cROIs to individual living subjects. For the first time, this allowed the quantification of proportion overlap of category selective regions of VTC and its cellular composition.
+  <u>Modeling of Retinal Ganglion Cell Displacement</u><br>
+  Modeling the lateral displacement of retinal ganglion cells in the human retina. Correction for this displacement is needed to relate measurements of  RGCs to measurements of cones, perception, or cortex. We have developed a spatial model that solves for RGC displacement at any arbitrary retinal position.  The goal of this model is to  use individual subject data to link measurements of cone and RGC density to visual function and cortical organization.
   </div>
 </div>
 ***
 # Past Projects
  <div class="wrapper">
   <div class="one">
-  <img class="ohbm-image" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
+  <img class="ohbm-image" src="/assets/img/kgs-brain.png" alt="kgs-brain" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="two">
   <img class="ohbm-image" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
@@ -63,26 +64,32 @@ permalink: /research/
   .one {
     grid-column: 1 / 3;
     grid-row: 1;
+    padding: 10px;
   }
 .two {
   grid-column: 2 / 3;
   grid-row: 1 ;
+  padding: 10px;
 }
 .three {
   grid-column: 3 / 3;
   grid-row: 1;
+  padding: 10px;
 }
 .four {
   grid-column: 1 / 3;
   grid-row: 2;
+  padding: 10px;
 }
 .five {
   grid-column: 2 / 3;
   grid-row: 2;
+  padding: 10px;
 }
 .six {
   grid-column: 3 / 3;
   grid-row: 2;
+  padding: 10px;
 }
 
 .wrapperTop {
@@ -111,7 +118,7 @@ permalink: /research/
   grid-row: 2;
   padding: 10px;
 }
-img.brain1 {
+img.kgs-brain {
     display: block;
     margin-left: auto;
     margin-right: auto;
