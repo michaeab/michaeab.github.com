@@ -9,11 +9,11 @@ permalink: /research/
   <img class="brain1" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="twoTop">
-  <img class="disp" src="/assets/img/disp.jpg" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
+  <<img class="floc" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="threeTop">
-  <u>Modeling of Cortical Color Responses</u><br>
-  Examining the neural basis of cortical color responses through the of fMRI. The goal of this project is to present subjects with targeted light spectra stimuli in order to model the sensitivity of populations of neurons to various color directions. Using parameterized fits to these voxel sensitivities, we will examine how these parameter vary based on factors such as eccentricity and visual area. 
+  <img class="disp" src="/assets/img/disp.jpg" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
+  </div>
   </div>
   <div class="fourTop">
   <u>Modeling of Retinal Ganglion Cell Displacement</u><br>
@@ -22,25 +22,25 @@ permalink: /research/
 </div>
 ***
 # Past Projects
-<div class="wrapper">
-  <div class="one">
+<div class="wrapperBottom">
+  <div class="oneBottom">
   <img class="kgs-brain" src="/assets/img/kgs-brain.png" alt="kgs-brain" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
-  <div class="two">
-  <img class="floc" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
+  <div class="twoBottom">
+  <img class="disp" src="/assets/img/disp.jpg" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
-  <div class="three">
-  <img class="devo" src="/assets/img/devo.png" alt="devo" style='height: 100%; width: 100%; object-fit: contain'/>
+  <div class="threeBottom">
+  <img class="disp" src="/assets/img/disp.jpg" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
-  <div class="four">
+  <div class="fourBottom">
   <u>Function and Cytoarchitecture</u> <br> 
   Created cortical mesh reconstructions of post-mortem human brains in FreeSurfer based on hand segmentations. The surfaces were used to create maximum probability maps (MPM) of cytoarchitechtonic regions of interest (cROI) in the fusiform gyrus. I created a pipeline using the cortex based alignment tools of FreeSurfer to register these MPM cROIs to individual living subjects. For the first time, this allowed the quantification of proportion overlap of category selective regions of VTC and its cellular composition.
   </div>
-  <div class="five">
+  <div class="fiveBottom">
   <u>Predictive Atlas of High Level Visual Areas</u><br>
   Category selective functional regions of interest (fROI) were used to create maximum probability maps (MPM) of ventral temporal cortex. Using cortex based alignment, I registered these MPM fROIs to an average cortical surface and used a leave one out analysis that allowed for the quantification of the spatial predictability of these fROIs.
   </div>
-  <div class="six">
+  <div class="sixBottom">
   <u>Development of Perception</u><br>
   A longitudinal research study examining human high-level visual cortex in children (5-12 years old) and adults. From this study, we found growth of tissue within portions of ventral temporal cortex, challenging the idea that cortex is either quiescent or pruned after early childhood. This tissue growth within face-selective cortex, is correlated with increases in the functional selectivity of face-selective regions and linked to improvements in recognition memory ability well into adulthood. To do this study, we combined quantitative magnetic resonance imaging techniques with functional MRI and behavioral measurements in single-subject analyses. We have also linked these measures with ex vivo quantifications of cytoarchitecture.
   </div>
@@ -55,42 +55,44 @@ permalink: /research/
    flex: 50%;    
   }
 
-.wrapper {
+
+.wrapperBottom {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
   grid-auto-rows: minmax(100px, auto);
   }
-.one {
+.oneBottom {
   grid-column: 1 / 3;
   grid-row: 1;
   padding: 10px;
   }
-.two {
+.twoBottom {
   grid-column: 2 / 3;
   grid-row: 1 ;
   padding: 10px;
 }
-.three {
+.threeBottom {
   grid-column: 3 / 3;
   grid-row: 1;
   padding: 10px;
 }
-.four {
+.fourBottom {
   grid-column: 1 / 3;
   grid-row: 2;
   padding: 10px;
 }
-.five {
+.fiveBottom {
   grid-column: 2 / 3;
   grid-row: 2;
   padding: 10px;
 }
-.six {
+.sixBottom {
   grid-column: 3 / 3;
   grid-row: 2;
   padding: 10px;
 }
+
 .wrapperTop {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -117,6 +119,8 @@ permalink: /research/
   grid-row: 2;
   padding: 10px;
 }
+
+
 img.kgs-brain {
     display: block;
     margin-left: auto;
@@ -132,5 +136,4 @@ img.devo {
     margin-left: auto;
     margin-right: auto;
 }
-
 </style>
