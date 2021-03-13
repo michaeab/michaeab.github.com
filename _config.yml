@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://abirsh.github.io
+url:                   https://michaeab.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Abir Saha
+title:                 Michael Barnett
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -40,21 +40,21 @@ logo:                  /assets/img/abir.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Abir Saha
-  email:               <abirsaha056@gmail.com>
+  name:                Michael Barnett
+  email:               <micalan@sas.upenn.edu>
   # Used by `jekyll-seo-tag`:
-  twitter:             abirsaha_
+  twitter:             CajalMe
 
 # Add links to the sidebar.
 menu:
   - title:             ABOUT
-    url:               /#about
+    url:               /about/
   - title:             RESEARCH
-    url:               /#research
+    url:               /research/
   - title:             PUBLICATIONS
-    url:               /#publications
+    url:               /publications/
   - title:             CONTACT
-    url:               /#contact-me
+    url:               /contact-me
 #   - title:             Blog
 #     url:               /blog
 
@@ -67,7 +67,7 @@ legal:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020 Abir Saha. All rights reserved.
+copyright:             © 2021 Michael Barnett. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -82,7 +82,7 @@ paginate_path:         /blog/page-:num/
 
 # Sidebar image and theme color of the site.
 # accent_image:          /assets/img/sidebar-bg.jpg
-accent_image:          none
+accent_image:          /assets/img/brain2.png
 accent_color:          rgb(0, 87, 156)
 
 # This is used for the `theme-color` meta tag,
