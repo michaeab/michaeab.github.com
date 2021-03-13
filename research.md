@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-# Current Projects
+## Current Projects
 <div class="wrapper">
   <div class="one">
     <img class="brain1" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
@@ -23,7 +23,7 @@ permalink: /research/
 
 ***
 
-# Past Projects
+## Past Projects
 <div class="wrapper">
   <div class="one">
     <img class="kgs-brain" src="/assets/img/kgs-brain.png" alt="kgs-brain" style='height: 100%; width: 100%; object-fit: contain'/>
@@ -34,7 +34,6 @@ permalink: /research/
   <div class="three">
     <u>Predictive Atlas of High Level Visual Areas</u><br>
     Category selective functional regions of interest (fROI) were used to create maximum probability maps (MPM) of ventral temporal cortex. Using cortex based alignment, I registered these MPM fROIs to an average cortical surface and used a leave one out analysis that allowed for the quantification of the spatial predictability of these fROIs.
-    <img class="devo" src="/assets/img/devo.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="four">
     <u>Function and Cytoarchitecture</u> <br> 
@@ -46,13 +45,9 @@ permalink: /research/
   <div class="one">
     <img class="devo" src="/assets/img/devo.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
-  <div class="two">
-  </div>
   <div class="three">
     <u>Development of Perception</u><br>
     A longitudinal research study examining human high-level visual cortex in children (5-12 years old) and adults. From this study, we found growth of tissue within portions of ventral temporal cortex, challenging the idea that cortex is either quiescent or pruned after early childhood. This tissue growth within face-selective cortex, is correlated with increases in the functional selectivity of face-selective regions and linked to improvements in recognition memory ability well into adulthood. To do this study, we combined quantitative magnetic resonance imaging techniques with functional MRI and behavioral measurements in single-subject analyses. We have also linked these measures with ex vivo quantifications of cytoarchitecture.
-  </div>
-  <div class="four">
   </div>
 </div>
 
