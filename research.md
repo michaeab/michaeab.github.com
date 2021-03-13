@@ -122,20 +122,4 @@ permalink: /research/
   padding: 10px;
 }
 
-
-img.kgs-brain {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-img.floc {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-img.devo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
 </style>
