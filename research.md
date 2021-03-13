@@ -6,10 +6,10 @@ permalink: /research/
 # Current Projects
 <div class="wrapperTop">
   <div class="oneTop">
-  <img class="ohbm-image" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
+  <img class="brain1" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="twoTop">
-  <img class="ohbm-image" src="/assets/img/disp.jpg" alt="dips" style='height: 100%; width: 100%; object-fit: contain'/>
+  <img class="disp" src="/assets/img/disp.jpg" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="threeTop">
   <u>Modeling of Cortical Color Responses</u><br>
@@ -22,15 +22,15 @@ permalink: /research/
 </div>
 ***
 # Past Projects
- <div class="wrapper">
+<div class="wrapper">
   <div class="one">
-  <img class="ohbm-image" src="/assets/img/kgs-brain.png" alt="kgs-brain" style='height: 100%; width: 100%; object-fit: contain'/>
+  <img class="kgs-brain" src="/assets/img/kgs-brain.png" alt="kgs-brain" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="two">
-  <img class="ohbm-image" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
+  <img class="floc" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="three">
-  <img class="ohbm-image" src="/assets/img/devo.png" alt="devo" style='height: 100%; width: 100%; object-fit: contain'/>
+  <img class="devo" src="/assets/img/devo.png" alt="devo" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="four">
   <u>Function and Cytoarchitecture</u> <br> 
@@ -47,24 +47,24 @@ permalink: /research/
 </div>
 
 <style type="text/css">
-  .row {
-    display: flex;
+.row {
+   display: flex;
   }
 
-  .column {
-    flex: 50%;    
+.column {
+   flex: 50%;    
   }
 
-  .wrapper {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-    grid-auto-rows: minmax(100px, auto);
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
   }
-  .one {
-    grid-column: 1 / 3;
-    grid-row: 1;
-    padding: 10px;
+.one {
+  grid-column: 1 / 3;
+  grid-row: 1;
+  padding: 10px;
   }
 .two {
   grid-column: 2 / 3;
@@ -91,7 +91,6 @@ permalink: /research/
   grid-row: 2;
   padding: 10px;
 }
-
 .wrapperTop {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
