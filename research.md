@@ -18,7 +18,7 @@ permalink: /research/
   <u>Function and Cytoarchitecture</u> <br> 
   Created cortical mesh reconstructions of post-mortem human brains in FreeSurfer based on hand segmentations. The surfaces were used to create maximum probability maps (MPM) of cytoarchitechtonic regions of interest (cROI) in the fusiform gyrus. I created a pipeline using the cortex based alignment tools of FreeSurfer to register these MPM cROIs to individual living subjects. For the first time, this allowed the quantification of proportion overlap of category selective regions of VTC and its cellular composition.
   </div>
-
+</div>
 ***
 # Past Projects
  <div class="wrapper">
