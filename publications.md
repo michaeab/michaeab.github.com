@@ -36,6 +36,8 @@ permalink: /publications/
 
 1. Weiner K.S., Jonas J., Gomez J., Maillard L., Brissart H., Hossu G., Jacques C., Loftus D., Colnat-Coulbois S., Stigliani A., **Barnett M.A.**, Grill-Spector K.†, Rossion B.† The Face-Processing Network Is Resilient to Focal Resection of Human Visual Cortex. Journal of Neuroscience, 2016.
 
+***
+
 ## Confrence Presentations
 1. Finzi, D., Gomez, J., Rezai, A.A., Nordt, M., Natu, V.S., Jeska, B.L., **Barnett, M.A.**, Grill-Spector, K. (2019). Differential White Matter Connections to Ventral and Lateral Occipito-Temporal Face-Selective Regions Underlie Differences in Visual Field Coverage.  Society for Neuroscience Annual Meeting
 
