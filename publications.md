@@ -6,35 +6,35 @@ permalink: /publications/
 
 ## Publications
 † Equal Contribution
-1. Barnett, M.A., Aguirre, G.K., Brainard, D.H. A Quadratic Model Captures the Human V1 Response to Variations in Chromatic Direction and Contrast (Submitted) <a href="https://www.biorxiv.org/content/10.1101/2020.12.03.410506v1.abstract">bioRxiv</a>
+1. **Barnett, M.A.**, Aguirre, G.K., Brainard, D.H. A Quadratic Model Captures the Human V1 Response to Variations in Chromatic Direction and Contrast (Submitted) <a href="https://www.biorxiv.org/content/10.1101/2020.12.03.410506v1.abstract">bioRxiv</a>
 
-1. Natu, V.S., Arcaro, M.J., Barnett, M.A., Gomez, J., Livingstone, M., Grill-Spector, K., & Weiner, K.S. Development, evolution, and functional relevance of deep sulcal points in high-level visual cortex. (Submitted)
+1. Natu, V.S., Arcaro, M.J., **Barnett, M.A.**, Gomez, J., Livingstone, M., Grill-Spector, K., & Weiner, K.S. Sulcal Depth in the Medial Ventral Temporal Cortex Predicts the Location of a Place-Selective Region in Macaques, Children, and Adults. Cerebral Cortex, 2021.
 
-Gomez, J., Barnett, M.A., & Grill-Spector, K. Extensive childhood experience with Pokémon suggests eccentricity drives organization of visual cortex. Nature Human Behaviour, 2019.
+1. Gomez, J., **Barnett, M.A.**, & Grill-Spector, K. Extensive childhood experience with Pokémon suggests eccentricity drives organization of visual cortex. Nature Human Behaviour, 2019.
 
-Natu, V., Gomez, J., Barnett, M.A., Jeska, B., Zhen, Z., Kirilina, E., Jaeger, C., Cox, S., Weiner, K.S., Weiskopf, N. & Grill-Spector, K. Apparent thinning of human visual cortex during childhood is associated with myelination. Proceedings of the National Academy of Sciences, 2019.
+1. Natu, V., Gomez, J., **Barnett, M.A.**, Jeska, B., Zhen, Z., Kirilina, E., Jaeger, C., Cox, S., Weiner, K.S., Weiskopf, N. & Grill-Spector, K. Apparent thinning of human visual cortex during childhood is associated with myelination. Proceedings of the National Academy of Sciences, 2019.
 
-Gomez, J., Drain, A., Jeska, B., Natu, V. S., Barnett, M.A., & Grill-Spector, K. Development of population receptive fields in the lateral visual stream improves spatial coding amid stable structural-functional coupling. NeuroImage, 2019.
+1. Gomez, J., Drain, A., Jeska, B., Natu, V. S., **Barnett, M.A.**, & Grill-Spector, K. Development of population receptive fields in the lateral visual stream improves spatial coding amid stable structural-functional coupling. NeuroImage, 2019.
 
-Nordt, M., Gomez, J., Natu, V., Jeska, B., Barnett, M.A., & Grill-Spector, K. Learning to Read Increases the Informativeness of Distributed Ventral Temporal Responses. Cerebral Cortex, 2018.
+1. Nordt, M., Gomez, J., Natu, V., Jeska, B., **Barnett, M.A.**, & Grill-Spector, K. Learning to Read Increases the Informativeness of Distributed Ventral Temporal Responses. Cerebral Cortex, 2018.
 
-Gomez, J., Natu, V., Jeska, B., Barnett, M.A., & Grill-Spector, K. Development differentially sculpts receptive fields across early and high-level human visual cortex. Nature communications, 2018.
+1. Gomez, J., Natu, V., Jeska, B., **Barnett, M.A.**, & Grill-Spector, K. Development differentially sculpts receptive fields across early and high-level human visual cortex. Nature communications, 2018.
 
-Weiner, K.S., Barnett, M.A., Witthoft, N., Stigliani, A., Gomez. J., Natu, V., Golarai, G., Amunts, K., Zilles, K., Grill-Spector, K. Where is the parahippocampal place area? Anatomical and Probabilistic comparisons. NeuroImage, 2018.
+1. Weiner, K.S., **Barnett, M.A.**, Witthoft, N., Stigliani, A., Gomez. J., Natu, V., Golarai, G., Amunts, K., Zilles, K., Grill-Spector, K. Where is the parahippocampal place area? Anatomical and Probabilistic comparisons. NeuroImage, 2018.
 
-Gomez, J., Barnett, M.A., Natu, V.S., Mezer, A., Grill-Spector, K. Growth of tissue in human cortex is coupled with the development of face processing. Science, 2017.
+1. Gomez, J., **Barnett, M.A.**, Natu, V.S., Mezer, A., Grill-Spector, K. Growth of tissue in human cortex is coupled with the development of face processing. Science, 2017.
 
-Rosenke M., Weiner K.S., Barnett M.A., Zilles K., Amunts K., Goebel R., Grill-Spector K. A cross-validated cytoarchitectonic atlas of the human ventral visual stream. NeuroImage, 2017.
+1. Rosenke M., Weiner K.S., **Barnett M.A.**, Zilles K., Amunts K., Goebel R., Grill-Spector K. A cross-validated cytoarchitectonic atlas of the human ventral visual stream. NeuroImage, 2017.
 
-Rosenke, M., Weiner, K.S., Barnett, M.A., Zilles, K., Amunts, K., Goebel, R., & Grill-Spector, K. Data on a cytoarchitectonic brain atlas: effects of brain template and a comparison to a multimodal atlas. Data in brief, 2017.
+1. Rosenke, M., Weiner, K.S., **Barnett, M.A.**, Zilles, K., Amunts, K., Goebel, R., & Grill-Spector, K. Data on a cytoarchitectonic brain atlas: effects of brain template and a comparison to a multimodal atlas. Data in brief, 2017.
 
-Takemura, H., Pestilli, F., Weiner, K.S., Kerilis, G., Landi, S., Sliwa, J., Ye, F.Q., Thomas, C., Barnett, M.A., Leopold, D.A., Pierpaoli, C., Freiwald, W., Logothetis, N. & Wandell, B.A. The Occipital Vertical Fiber System in Human and Macaque. Cerebral Cortex, 2017.
+1. Takemura, H., Pestilli, F., Weiner, K.S., Kerilis, G., Landi, S., Sliwa, J., Ye, F.Q., Thomas, C., **Barnett, M.A.**, Leopold, D.A., Pierpaoli, C., Freiwald, W., Logothetis, N. & Wandell, B.A. The Occipital Vertical Fiber System in Human and Macaque. Cerebral Cortex, 2017.
 
-Weiner, K.S.**, Barnett, M.A.**, Lorenz, S., Caspers, J., Stigliani, A., Amunts, K., Zilles, K., Fischl, B., Grill-Spector, K. Beyond Brodmann: Quantifying the Functional and Microstructural Heterogeneity of Human High-Level Visual Cortex. Cerebral Cortex, 2016.
+1. Weiner, K.S.†**, Barnett, M.A.†**, Lorenz, S., Caspers, J., Stigliani, A., Amunts, K., Zilles, K., Fischl, B., Grill-Spector, K. Beyond Brodmann: Quantifying the Functional and Microstructural Heterogeneity of Human High-Level Visual Cortex. Cerebral Cortex, 2016.
 
-Natu, V.S., Barnett, M.A., Hartley, J., Gomez, J., Grill-Spector. K. Development of neural sensitivity to face identity correlates with perceptual discriminability. Journal of Neuroscience, 2016.
+1. Natu, V.S., **Barnett, M.A.**, Hartley, J., Gomez, J., Grill-Spector. K. Development of neural sensitivity to face identity correlates with perceptual discriminability. Journal of Neuroscience, 2016.
 
-Weiner K.S., Jonas J., Gomez J., Maillard L., Brissart H., Hossu G., Jacques C., Loftus D., Colnat-Coulbois S., Stigliani A., Barnett M.A., Grill-Spector K.**, Rossion B.** The Face-Processing Network Is Resilient to Focal Resection of Human Visual Cortex. Journal of Neuroscience, 2016.
+1. Weiner K.S., Jonas J., Gomez J., Maillard L., Brissart H., Hossu G., Jacques C., Loftus D., Colnat-Coulbois S., Stigliani A., **Barnett M.A.**, Grill-Spector K.†, Rossion B.† The Face-Processing Network Is Resilient to Focal Resection of Human Visual Cortex. Journal of Neuroscience, 2016.
 
 ## Confrence Presentations
 Finzi, D., Gomez, J., Rezai, A.A., Nordt, M., Natu, V.S., Jeska, B.L., Barnett, M.A., Grill-Spector, K. (2019). Differential White Matter Connections to Ventral and Lateral Occipito-Temporal Face-Selective Regions Underlie Differences in Visual Field Coverage.  Society for Neuroscience Annual Meeting
