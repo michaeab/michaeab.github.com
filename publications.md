@@ -10,7 +10,7 @@ permalink: /publications/
 
 1. Natu, V.S., Arcaro, M.J., **Barnett, M.A.**, Gomez, J., Livingstone, M., Grill-Spector, K., & Weiner, K.S. Sulcal Depth in the Medial Ventral Temporal Cortex Predicts the Location of a Place-Selective Region in Macaques, Children, and Adults. Cerebral Cortex, 2021.
 
-1. Gomez, J., **Barnett, M.A.**, & Grill-Spector, K. Extensive childhood experience with Pokémon suggests eccentricity drives organization of visual cortex. Nature Human Behaviour, 2019.<a href="https://penntoday.upenn.edu/news/pokemon-activates-unique-part-brain-offering-insights-its-structure">Interview</a>.
+1. Gomez, J., **Barnett, M.A.**, & Grill-Spector, K. Extensive childhood experience with Pokémon suggests eccentricity drives organization of visual cortex. Nature Human Behaviour, 2019. <a href="https://penntoday.upenn.edu/news/pokemon-activates-unique-part-brain-offering-insights-its-structure">Interview</a>.
 
 1. Natu, V., Gomez, J., **Barnett, M.A.**, Jeska, B., Zhen, Z., Kirilina, E., Jaeger, C., Cox, S., Weiner, K.S., Weiskopf, N. & Grill-Spector, K. Apparent thinning of human visual cortex during childhood is associated with myelination. Proceedings of the National Academy of Sciences, 2019.
 
