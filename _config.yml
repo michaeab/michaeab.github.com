@@ -136,6 +136,7 @@ defaults:
       seo:
         type:          WebPage
 
+favicon: /assets/icons/favicon.ico
 
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
