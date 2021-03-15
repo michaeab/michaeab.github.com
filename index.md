@@ -10,7 +10,7 @@ cover:  true
   </div>
   
   <div class="column">
-  <img class="ohbm-image" src="/assets/img/ohbm.jpg" alt="OHBM 2015" style="width:350px;height:350px;">
+  <img class="ohbm-image" src="/assets/img/ohbm.jpg" alt="OHBM 2015" style="height: 100%; width: 100%; object-fit: contain"/>
   </div>
 </div> 
 
