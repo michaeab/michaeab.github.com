@@ -19,8 +19,8 @@ cover:  true
 ## Education:
 
 2016 - present Ph.D., Psychology, University of Pennsylvania, Philadelphia, PA  
-2013 B.S., Biological Sciences, University of California Irvine, Irvine, CA  
-2011 A.A., Social and Behavioral Sciences, Los Angeles Pierce College, Los Angeles, CA  
+2013 - B.S., Biological Sciences, University of California Irvine, Irvine, CA  
+2011 - A.A., Social and Behavioral Sciences, Los Angeles Pierce College, Los Angeles, CA  
 
 ## Research Positions:
 
@@ -29,8 +29,8 @@ cover:  true
 
 ## Fellowships & Awards:
 
-2018 NSF Graduate Research Fellowship
-
+2018 NSF Graduate Research Fellowship  
+2009 Pierce College / UC Berkeley Summer Internship in Neuroscience
 <!--author-->
 
 
@@ -47,6 +47,7 @@ cover:  true
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 10px;
 }
 </style>
 
