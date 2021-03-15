@@ -26,10 +26,10 @@ permalink: /research/
 ## Past Projects
 <div class="wrapper">
   <div class="one">
-    <img class="kgs-brain" src="/assets/img/kgs-brain.png" alt="kgs-brain" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img class="floc" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="two">
-    <img class="floc" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img class="kgs-brain" src="/assets/img/kgs-brain.png" alt="kgs-brain" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="three">
     <u>Predictive Atlas of High Level Visual Areas</u><br>
