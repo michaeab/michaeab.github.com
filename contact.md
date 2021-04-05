@@ -25,17 +25,17 @@ permalink: /contact/
 <body>
 <div class="row">
   <div class="column" style="background-color:#fff;">
-    ## Address
-    Michael Barnett  
-    Leidy Lab, room 105  
-    3740 Hamilton Walk  
-    Philadelphia PA, 19104  
+    <h2>Address</h2><br>
+    Michael Barnett <br> 
+    Leidy Lab, room 105 <br>  
+    3740 Hamilton Walk  <br>
+    Philadelphia PA, 19104 <br><br> 
 
-    ## Office
-    Goddard Laboratories, Rm. 420
+    <h2>Office</h2><br>
+    Goddard Laboratories, Rm. 420 <br><br>
 
-    ## Email
-    micalan [at] sas [dot] upenn [dot] edu 
+    <h2>Email</h2><br>
+    micalan [at] sas [dot] upenn [dot] edu <br>
   </div>
   <div class="column" style="background-color:#fff;">
     <img class="disp" src="/assets/img/4b.png" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
