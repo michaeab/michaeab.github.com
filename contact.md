@@ -13,7 +13,7 @@ permalink: /contact/
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; 
+  height: 400px; 
 }
 .row:after {
   content: "";
@@ -25,16 +25,16 @@ permalink: /contact/
 <body>
 <div class="row">
   <div class="column" style="background-color:#fff;">
-    <h2>Address</h2><br>
+    <h2>Address</h2>
     Michael Barnett <br> 
     Leidy Lab, room 105 <br>  
     3740 Hamilton Walk  <br>
     Philadelphia PA, 19104 <br><br> 
 
-    <h2>Office</h2><br>
+    <h2>Office</h2>
     Goddard Laboratories, Rm. 420 <br><br>
 
-    <h2>Email</h2><br>
+    <h2>Email</h2>
     micalan [at] sas [dot] upenn [dot] edu <br>
   </div>
   <div class="column" style="background-color:#fff;">
