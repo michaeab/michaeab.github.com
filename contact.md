@@ -41,7 +41,7 @@ permalink: /contact/
     <img class="disp" src="/assets/img/4b.png" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
 </div>
-
+<img class="disp" src="/assets/img/3952024.png" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
 </body>
 
 
