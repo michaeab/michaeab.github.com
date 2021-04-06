@@ -25,17 +25,21 @@ permalink: /contact/
 <body>
 <div class="row">
   <div class="column" style="background-color:#fff;">
-    <p style="font-size:50px;color:#0dd686;">Mail Address</p>
+    <p style="font-size:24px;color:#0dd686;">Mail Address</p>
+    <p style="font-size:14px;color:#000000;">
     Michael Barnett <br> 
     Leidy Lab, room 105 <br>  
     3740 Hamilton Walk  <br>
     Philadelphia PA, 19104 <br><br> 
-
-    <p style="font-size:50px;color:#0dd686;">Office</p>
+    </p>
+    <p style="font-size:24px;color:#0dd686;">Office</p>
+    <p style="font-size:14px;color:#000000;">
     Goddard Laboratories, Rm. 420 <br><br>
-
-    <p style="font-size:50px;color:#0dd686;">Email</p>
+    </p>
+    <p style="font-size:24px;color:#0dd686;">Email</p>
+     <p style="font-size:14px;color:#000000;">
     micalan [at] sas [dot] upenn [dot] edu <br>
+    </p>
   </div>
   <div class="column" style="background-color:#fff;">
     <img class="disp" src="/assets/img/4b.png" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
