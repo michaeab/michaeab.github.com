@@ -13,7 +13,7 @@ permalink: /research/
   </div>
   <div class="three">
     <u>Modeling of Cortical Color Responses</u><br>
-    Examine the represetnation of color stimuli in early visual cortex through the use of fMRI. The goal of this project is to present subjects with targeted light spectra in order to model the cortical sensitivity to various color directions. We developed a model of the BOLD fMRI response to these chromatic stimuli based on elliptical isoresponse contours. We call this model the quatratic color model (QCM). Using the QCM parameterized fits to the fMRI time course, we examine how these parameters vary based on factors such as eccentricity and visual area. For more information, see out preprint on <a href="https://www.biorxiv.org/content/10.1101/2020.12.03.410506v1.abstract">bioRxiv</a>.
+    Examine the represetnation of color stimuli in early visual cortex through the use of fMRI. The goal of this project is to present subjects with targeted light spectra in order to model the cortical sensitivity to various color directions. We developed a model of the BOLD fMRI response to these chromatic stimuli based on elliptical isoresponse contours. We call this model the quatratic color model (QCM). Using the QCM parameterized fits to the fMRI time course, we examine how these parameters vary based on factors such as eccentricity and visual area. For more information, see our preprint on <a href="https://www.biorxiv.org/content/10.1101/2020.12.03.410506v1.abstract">bioRxiv</a>.
   </div>
   <div class="four">
     <u>Modeling of Retinal Ganglion Cell Displacement</u><br>
