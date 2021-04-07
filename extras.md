@@ -3,280 +3,200 @@ layout: page
 title: Extras
 permalink: /extras/
 ---
-<nav>
-  <div class="container">
-    <div class="grid">
-      <div class="column-xs-12 column-md-10">
-        <p id="highlight">Paintings and Doodles</p>
-      </div>
-      <div class="column-xs-12 column-md-2">
-        <ul>
-          <li><a href="#" class="active">About</a></li>
-          <li><a href="#">About</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</nav>
-<section class="gallery">
-  <div class="container">
-    <div class="grid">
-      <div class="column-xs-12 column-md-4">
-        <figure class="img-container">
-          <img src="/assets/img/4b.png" />
-          <figcaption class="img-content">
-            <h2 class="title">Smart Watch</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Smart Watch</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12 column-md-4">
-        <figure class="img-container">
-          <img src="https://source.unsplash.com/5VXH4RG88gc" />
-          <figcaption class="img-content">
-            <h2 class="title">Camera Film</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Camera Film</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12 column-md-4">
-        <figure class="img-container">
-          <img src="https://source.unsplash.com/XtUd5SiX464">
-          <figcaption class="img-content">
-            <h2 class="title">Coffee</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Coffee</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12 column-md-6">
-        <figure class="img-container">
-          <img src="https://source.unsplash.com/JYGnB9gTCls" />
-          <figcaption class="img-content">
-            <h2 class="title">Phone</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Phone</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12 column-md-6">
-        <figure class="img-container">
-          <img src="https://source.unsplash.com/-RBuQ2PK_L8" />
-          <figcaption class="img-content">
-            <h2 class="title">Keyboard</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Keyboard</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12">
-        <figure class="img-container">
-          <img src="https://source.unsplash.com/P44RIGl9V54" />
-          <figcaption class="img-content">
-            <h2 class="title">Wrist Watch</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Wrist Watch</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
-    </div>
-  </div>
-</section>
-<footer>
-  <div class="container">
-    <div class="grid">
-      <div class="column-xs-12">
-        <p class="copyright">&copy; Copyright 2021 Michael Barnett</p>
-      </div>
-    </div>
-  </div>
-</footer>
-
-@import url('https://fonts.googleapis.com/css?family=Barlow:400,500,700');
-
-$white: #fff;
-$black: #2e2e2e;
-$gray: #787878;
-$highlight: #ea8478;
-$footer: #f7f7f7;
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial;
+  margin: 0;
+}
 
 * {
   box-sizing: border-box;
-  &::before, &::after {
-    box-sizing: border-box;
-  }
-}
-
-body {
-  font-family: 'Barlow', sans-serif;
-  font-size: 1.125rem;
-  line-height: 1.5;
-  color: $gray;
-  background: $white;
-  text-rendering: optimizeLegibility;
-}
-
-ul li {
-  margin: 0 1.5rem 0 0;
-}
-
-a {
-  color: $gray;
-  text-decoration: none;
-  transition: all 0.2s ease;
-  &:hover {
-    color: $black;
-  }
-  &.active {
-    color: $black;
-  }
-}
-
-nav {
-  padding: 2.5rem 0 2.5rem 0;
-  ul {
-    display: flex;
-    justify-content: flex-start;
-  }
-  li {
-    font-size: 1.25rem;
-    &:nth-child(2) {
-      margin: 0;
-    }
-  }
-}
-
-#highlight {
-  color: $highlight;
-  font-size: 1.25rem;
-}
-
-.gallery {
-  padding: 0 0 4rem 0;
-}
-
-.img-container {
-  width: 100%;
-  height: 500px;
-  cursor: pointer;
-  overflow: hidden;
-  &:hover .img-content-hover {
-    display: block;
-  }
 }
 
 img {
-	width: 100%;
-  height: 500px;
-	object-fit: cover;
-  transform: scale(1);
-  transition: all 0.3s ease-in-out;
-  &:hover {
-    transform: scale(1.05);
-  }
+  vertical-align: middle;
 }
 
-.img-content-hover {
-  z-index: 1;
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
   position: absolute;
   top: 0;
-  left: 0;
-  white-space: nowrap;
-  display: none;
-  padding: 1rem;
-  background: $white;
-  font-weight: 400;
-  margin-top: 1.25rem;
-  margin-left: -2rem;
 }
 
-.title {
-  color: $black;
-  font-size: 1.5rem;
-  font-weight: 700;
-}
-
-.category {
-  font-size: 1rem;
-  color: $gray;
-}
-
-.img-content {
-  display: none;
-}
-
-.social, .copyright {
-  margin: 1rem;
-}
-
-.social li {
-  display: inline-block;
-}
-
-footer {
-  padding: 1rem 0;
-  background: $footer;
+/* Container for image text */
+.caption-container {
   text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
 }
 
-@supports (display: grid) {
-  .gallery .grid {
-    grid-gap: 1rem;
-  }
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
-@media(min-width: $md) {
-  nav ul {
-    justify-content: flex-end;
-  }
+/* Six columns side by side */
+.column {
+  float: left;
+  width: 16.66%;
 }
 
-@media screen and (max-width: 1024px) {
-  img:hover {
-    transform: none;
-  }
-  
-  .img-container {
-    height: 100%;
-    &:hover .img-content-hover {
-      display: none;
-    }
-  }
-
-  .img-content {
-    display: block;
-    padding: 1rem 0;
-  }
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
 }
 
-const imgContent = document.querySelectorAll('.img-content-hover');
+.active,
+.demo:hover {
+  opacity: 1;
+}
+</style>
+<body>
 
-function showImgContent(e) {
-  for(var i = 0; i < imgContent.length; i++) {
-    x = e.pageX;
-    y = e.pageY;
-    imgContent[i].style.transform = `translate3d(${x}px, ${y}px, 0)`;
+<h2 style="text-align:center">Slideshow Gallery</h2>
+
+<div class="container">
+  <div class="mySlides">
+    <div class="numbertext">1 / 6</div>
+    <img src="/assets/img/disp.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 6</div>
+    <img src="/assets/img/brain1.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 6</div>
+    <img src="/assets/img/disp.jpg" style="width:100%">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">4 / 6</div>
+    <img src="/assets/img/brain1.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 6</div>
+    <img src="i/assets/img/disp.jpg" style="width:100%">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">6 / 6</div>
+    <img src="/assets/img/brain1.jpg" style="width:100%">
+  </div>
+    
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
+
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="/assets/img/disp.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/img/brain1.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/img/disp.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/img/brain1.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/img/disp.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+    </div>    
+    <div class="column">
+      <img class="demo cursor" src="/assets/img/brain1.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+    </div>
+  </div>
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
   }
-};
-
-document.addEventListener('mousemove', showImgContent);
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
+</script>
+    
+</body>
+</html>
