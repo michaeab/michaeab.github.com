@@ -3,12 +3,11 @@ layout: page
 title: Extras
 permalink: /extras/
 ---
-<!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  font-family: Arial;
+  font-family: Helvetica;
   margin: 0;
 }
 
@@ -105,7 +104,7 @@ img {
 </style>
 <body>
 
-<h2 style="text-align:center">Slideshow Gallery</h2>
+<h2 style="text-align:center">Paintings and Doodles</h2>
 
 <div class="container">
   <div class="mySlides">
