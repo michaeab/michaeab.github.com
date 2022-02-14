@@ -18,7 +18,7 @@ cover:  true
 
 ## Education:
 
-2016 - present Ph.D., Psychology, University of Pennsylvania, Philadelphia, PA  
+2016 - Present Ph.D., Psychology, University of Pennsylvania, Philadelphia, PA  
 2013 - B.S., Biological Sciences, University of California Irvine, Irvine, CA  
 2011 - A.A., Social and Behavioral Sciences, Los Angeles Pierce College, Los Angeles, CA  
 

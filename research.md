@@ -9,15 +9,15 @@ permalink: /research/
     <img class="brain1" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="two">
-    <img class="disp" src="/assets/img/disp.jpg" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img class="brain1" src="/assets/img/CCT.png" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="three">
     <u>Modeling of Cortical Color Responses</u><br>
-        Examine the representation of color stimuli in early visual cortex through the use of functional magnetic resonance imaging (fMRI). The goal of this project is to present subjects with targeted light spectra that selectively stimulates the photoreceptors in order to model the cortical sensitivity to various color directions. We developed a model of the BOLD fMRI response to these chromatic stimuli based on elliptical isoresponse contours. We call this model the quadratic color model (QCM). Using the QCM parameterized fits to the fMRI time course, we examine how these parameters vary based on factors such as eccentricity and visual area. For more information, see our preprint on <a href="https://www.biorxiv.org/content/10.1101/2020.12.03.410506v1.abstract">bioRxiv</a>.
+        Examine the representation of color stimuli in early visual cortex through the use of functional magnetic resonance imaging (fMRI). The goal of this project is to present subjects with targeted light spectra that selectively stimulates the photoreceptors in order to model the cortical sensitivity to various color directions. We developed a model of the BOLD fMRI response to these chromatic stimuli based on elliptical isoresponse contours. We call this model the quadratic color model (QCM). Using the QCM parameterized fits to the fMRI time course, we examine how these parameters vary based on factors such as eccentricity and visual area. For more information, see our preprint on <a href="https://elifesciences.org/articles/65590">eLife</a>.
   </div>
   <div class="four">
-    <u>Modeling of Retinal Ganglion Cell Displacement</u><br>
-    Model the lateral displacement between cones and retinal ganglion cells in the human retina. Correcting for this spatial displacement is needed to relate measurements of ganglion cells to measurements of cones, perception, and cortex. We have developed a spatial model that solves for RGC displacement at any arbitrary retinal position.  The goal of this model is to use individual subject data to link measurements of cone and RGC density to visual function and cortical organization.
+    <u>Temporal Dynamics of Color Tracking</u><br>
+    Examining the timescale of color processing. This is done by using a novel psychophysics experiment in which participants attempts to track the position of a patch made up of various colors that jump around on a computer monitor. From this tracking data, temporal response functions are estimated for each color that was shown to a participant (color specifically refers to the ratio of L- and S- cone activity). These response functions allow us to determine properties such as the temporal delay which are needed to understand how different colors are processed at different timescales by the visual system. 
   </div>
 </div>
 
@@ -45,9 +45,16 @@ permalink: /research/
   <div class="one">
     <img class="devo" src="/assets/img/devo.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
+   <div class="two">
+    <img class="disp" src="/assets/img/disp.jpg" alt="disp" style='height: 100%; width: 100%; object-fit: contain'/>
+  </div>
   <div class="three">
     <u>Development of Perception</u><br>
     A longitudinal research study examining human high-level visual cortex in children (5-12 years old) and adults. From this study, we found growth of tissue within portions of ventral temporal cortex, challenging the idea that cortex is either quiescent or pruned after early childhood. This tissue growth within face-selective cortex, is correlated with increases in the functional selectivity of face-selective regions and linked to improvements in recognition memory ability well into adulthood. To do this study, we combined quantitative magnetic resonance imaging techniques with functional MRI and behavioral measurements in single-subject analyses. We have also linked these measures with ex vivo quantifications of cytoarchitecture.
+  </div>
+  <div class="four">
+    <u>Modeling of Retinal Ganglion Cell Displacement</u><br>
+    Model the lateral displacement between cones and retinal ganglion cells in the human retina. Correcting for this spatial displacement is needed to relate measurements of ganglion cells to measurements of cones, perception, and cortex. We have developed a spatial model that solves for RGC displacement at any arbitrary retinal position.  The goal of this model is to use individual subject data to link measurements of cone and RGC density to visual function and cortical organization.
   </div>
 </div>
 
