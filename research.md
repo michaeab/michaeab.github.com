@@ -13,7 +13,7 @@ permalink: /research/
   </div>
   <div class="three">
     <u>Modeling of Cortical Color Responses</u><br>
-        Examine the representation of color stimuli in early visual cortex through the use of functional magnetic resonance imaging (fMRI). The goal of this project is to present subjects with targeted light spectra that selectively stimulates the photoreceptors in order to model the cortical sensitivity to various color directions. We developed a model of the BOLD fMRI response to these chromatic stimuli based on elliptical isoresponse contours. We call this model the quadratic color model (QCM). Using the QCM parameterized fits to the fMRI time course, we examine how these parameters vary based on factors such as eccentricity and visual area. For more information, see our preprint on <a href="https://elifesciences.org/articles/65590">eLife</a>.
+        Examine the representation of color stimuli in early visual cortex through the use of functional magnetic resonance imaging (fMRI). The goal of this project is to present subjects with targeted light spectra that selectively stimulates the photoreceptors in order to model the cortical sensitivity to various color directions. We developed a model of the BOLD fMRI response to these chromatic stimuli based on elliptical isoresponse contours. We call this model the quadratic color model (QCM). Using the QCM parameterized fits to the fMRI time course, we examine how these parameters vary based on factors such as eccentricity and visual area. For more information, see our paper in <a href="https://elifesciences.org/articles/65590">eLife</a>.
   </div>
   <div class="four">
     <u>Temporal Dynamics of Color Tracking</u><br>
