@@ -24,7 +24,7 @@ Before grad school, I was a lab manager for Kalanit Grill-Spector at Stanford Un
 
 ## Education:
 
-2016 - 2022 Ph.D., Psychology, University of Pennsylvania, Philadelphia, PA  
+2022 - Ph.D., Psychology, University of Pennsylvania, Philadelphia, PA  
 2013 - B.S., Biological Sciences, University of California Irvine, Irvine, CA  
 2011 - A.A., Social and Behavioral Sciences, Los Angeles Pierce College, Los Angeles, CA  
 
