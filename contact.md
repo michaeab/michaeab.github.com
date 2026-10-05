@@ -27,18 +27,7 @@ permalink: /contact/
   <div class="column" style="background-color:#fff;">
     <p style="font-size:24px;color:##0f97ff;">Mail Address</p>
     <p style="font-size:16px;color:#000000;">
-    Michael Barnett <br> 
-    Leidy Lab, room 105 <br>  
-    3740 Hamilton Walk  <br>
-    Philadelphia PA, 19104 <br>
-    </p>
-    <p style="font-size:24px;color:##0f97ff;">Office</p>
-    <p style="font-size:16px;color:#000000;">
-    Goddard Laboratories, Rm. 420 <br>
-    </p>
-    <p style="font-size:24px;color:##0f97ff;">Email</p>
-     <p style="font-size:16px;color:#000000;">
-    micalan [at] sas [dot] upenn [dot] edu 
+    michaeab [at] gmail [dot] edu 
     </p>
   </div>
   <div class="column" style="background-color:#fff;">
