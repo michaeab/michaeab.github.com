@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-## Current Projects
+## Color Science Projects
 <div class="wrapper">
   <div class="one">
     <img class="brain1" src="/assets/img/brain1.jpg" alt="brain1" style='height: 100%; width: 100%; object-fit: contain'/>
@@ -23,7 +23,7 @@ permalink: /research/
 
 ***
 
-## Past Projects
+## Visual Neuroscience Projects
 <div class="wrapper">
   <div class="one">
     <img class="floc" src="/assets/img/floc.png" alt="floc" style='height: 100%; width: 100%; object-fit: contain'/>
