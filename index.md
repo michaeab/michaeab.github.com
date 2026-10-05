@@ -19,8 +19,8 @@ Before grad school, I was a lab manager for Kalanit Grill-Spector at Stanford Un
 ***
 ## Work Experience:
 
-2025 - Present: Staff Human Vision Scientist, Magic Leap <br> 
-2022 - 2025: Senior Engineer - Vision Science, Johnson & Johnson Vision Care
+2025 - Present Staff Human Vision Scientist, Magic Leap <br> 
+2022 - 2025    Senior Engineer - Vision Science, Johnson & Johnson Vision Care
 
 ## Education:
 
