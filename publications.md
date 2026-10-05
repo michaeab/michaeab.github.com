@@ -6,7 +6,10 @@ permalink: /publications/
 
 ## Publications
 † Equal Contribution
-1. **Barnett, M.A.**, Aguirre, G.K., Brainard, D.H. A Quadratic Model Captures the Human V1 Response to Variations in Chromatic Direction and Contrast (2021) <a href="https://elifesciences.org/articles/65590">eLife</a>.
+
+1. **Barnett, M.A.**, Chin, B.M., Aguirre, G.K., Burge, J., Brainard, D.H. Temporal dynamics of human color processing measured using a continuous tracking task. <a href="https://doi.org/10.1167/jov.25.2.12">Journal of Vision</a>, 2025.
+   
+1. **Barnett, M.A.**, Aguirre, G.K., Brainard, D.H. A Quadratic Model Captures the Human V1 Response to Variations in Chromatic Direction and Contrast. <a href="https://elifesciences.org/articles/65590">eLife</a>, 2021.
 
 1. Natu, V.S., Arcaro, M.J., **Barnett, M.A.**, Gomez, J., Livingstone, M., Grill-Spector, K., & Weiner, K.S. Sulcal Depth in the Medial Ventral Temporal Cortex Predicts the Location of a Place-Selective Region in Macaques, Children, and Adults. Cerebral Cortex, 2021.
 
