@@ -27,7 +27,7 @@ permalink: /contact/
   <div class="column" style="background-color:#fff;">
     <p style="font-size:24px;color:##0f97ff;">Mail Address</p>
     <p style="font-size:16px;color:#000000;">
-    michaeab [at] gmail [dot] edu 
+    michaeab [at] gmail [dot] com
     </p>
   </div>
   <div class="column" style="background-color:#fff;">
